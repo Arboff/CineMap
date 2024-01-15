@@ -140,11 +140,11 @@ shutil.rmtree('frames')
 ## Screenshots
 
 
-Results: 
+
 ![App Screenshot](https://iili.io/JYNguB1.md.jpg)
 
 
-App UI
+
 ![App Screenshot](https://iili.io/JYN4qDQ.md.png)
 
 
